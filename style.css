@@ -12,7 +12,6 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -26,7 +25,6 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
 .bloc {
     width: 100%;
     clear: both;
@@ -91,7 +89,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
