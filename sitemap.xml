@@ -5,8 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://stef008.github.io/P4_Joyeux_03_2022/</loc>
   <lastmod>2022-04-04T10:08:48+00:00</lastmod>
@@ -22,6 +20,4 @@
   <lastmod>2022-04-04T10:08:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>

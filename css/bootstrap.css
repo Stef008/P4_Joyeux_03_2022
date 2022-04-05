@@ -235,7 +235,7 @@ th {
     *,
     :after,
     :before {
-        color: #000 !important;
+        color: #000 !;
         text-shadow: none !important;
         background: 0 0 !important;
         -webkit-box-shadow: none !important;
@@ -285,21 +285,21 @@ th {
     }
     .btn>.caret,
     .dropup>.btn>.caret {
-        border-top-color: #000 !important
+        border-top-color: #000 
     }
     .label {
         border: 1px solid #000
     }
     .table {
-        border-collapse: collapse !important
+        border-collapse: collapse 
     }
     .table td,
     .table th {
-        background-color: #fff !important
+        background-color: #fff 
     }
     .table-bordered td,
     .table-bordered th {
-        border: 1px solid #ddd !important
+        border: 1px solid #ddd 
     }
 }
 
