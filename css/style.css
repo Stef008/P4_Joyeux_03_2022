@@ -35,6 +35,10 @@ span{
     font-size:1.5rem;
     color:#364577;
 }
+.row__center{
+    display:grid;
+    place-items: center;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
